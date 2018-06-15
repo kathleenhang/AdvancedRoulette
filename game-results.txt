@@ -1,0 +1,10 @@
+
+Game: 100A1
+Initial game balance: 0
+Ending game balance: 0
+
+Winning/Losing amount: 0
+Round 1 (Red 7)
+
+Trans	Player		Bet Amount	Bet Type	Pay
+1	1		9		B		0
